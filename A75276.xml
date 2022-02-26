@@ -1,0 +1,322 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The worlds proceeding woes and succeeding joyes. 1. In cruell warres and vehement plagues. 2. In happy peace and unity amongst all living creatures. Or, the triple presage of Henry Alsted, (a man every way most learned) depending as well on the oracles of heaven, as on the opinions of the greatest astrologers. With an addition of the fiery conjunction of Saturn and Iupiter, this instant February; denouncing many calamities to the world, or certaine regions thereof. In which discourse, is discovered the opinions of many learned men concerning Christs personall reign upon earth, and confirmed by the most comfortable prophecie of Tycho Brahe, touching the most blessed age even now at hand.</title>
+            <author>Alsted, Johann Heinrich, 1588-1638.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 35 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75276</idno>
+            <idno type="STC">Wing A2927</idno>
+            <idno type="STC">Wing W3591</idno>
+            <idno type="STC">Thomason E89_20</idno>
+            <idno type="STC">ESTC R2034</idno>
+            <idno type="EEBO-CITATION">99863364</idno>
+            <idno type="PROQUEST">99863364</idno>
+            <idno type="VID">115560</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75276)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 115560)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 15:E89[20])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The worlds proceeding woes and succeeding joyes. 1. In cruell warres and vehement plagues. 2. In happy peace and unity amongst all living creatures. Or, the triple presage of Henry Alsted, (a man every way most learned) depending as well on the oracles of heaven, as on the opinions of the greatest astrologers. With an addition of the fiery conjunction of Saturn and Iupiter, this instant February; denouncing many calamities to the world, or certaine regions thereof. In which discourse, is discovered the opinions of many learned men concerning Christs personall reign upon earth, and confirmed by the most comfortable prophecie of Tycho Brahe, touching the most blessed age even now at hand.</title>
+                  <author>Alsted, Johann Heinrich, 1588-1638.</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed in the yeare, 1642 [i.e. 1643]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Original title not found.</note>
+                  <note>Annotation on Thomason copy: "feb:15".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Brahe, Tycho, 1546-1601.</term>
+               <term>Astrology --  Early works to 1800.</term>
+               <term>Prophecies --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="prophecy">
+            <pb facs="tcp:115560:1"/>
+            <pb n="3" facs="tcp:115560:1"/>
+            <head>The Triple Preſage OF <hi>HENRY ALSTED.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">F</seg>Irſt, <hi>From the year</hi> 1603. <hi>to the year</hi> 1642. <hi>The univer<g ref="char:EOLhyphen"/>ſall Orbe ſhall finde a very great alteration; for in the ſpace of thoſe fourty yeeres, the ſeventh Revolution of the Pla<g ref="char:EOLhyphen"/>nets runs to end,</hi> (a) <hi>and the numbers in</hi> Daniel <hi>and the Apocalyps doe confirme the ſame;</hi> Thus ſaith he, nor un<g ref="char:EOLhyphen"/>adviſedly in his <hi>Speculum Mundi,</hi> inſerted in his Chro<g ref="char:EOLhyphen"/>noligie between the pages 482. and 483. The like to theſe he brings forth in his <hi>Encycl.</hi> publiſhed in folio, (<hi>Anno</hi> 1630) page 46. <hi>Becauſe</hi> (ſaith hee) <hi>the ſeventh Revolution of the Planets doth fall upon the ſixth Millenary, the univerſall and that indeed very great alteration of this world is portended from the yeere,</hi> 1604. <hi>even to the yeere,</hi> 1642. <hi>For this ſeventh Revolution being finiſhed, the Planets doe return to their Beginnings from whence the end of the Kingdoms of the world is col<g ref="char:EOLhyphen"/>lected by men skilfull in Astronomy.</hi>
+            </p>
+            <p>Obſerve here, that our Author took theſe things at the firſt (unleſſe I be greatly deceived) out of <hi>Tycho Brahe</hi> himſelfe; whoſe name never<g ref="char:EOLhyphen"/>theleſſe he purpoſely concealeth. Let us therefore (if it pleaſe you) hear <hi>Ticho</hi> ſpeaking in his own ſtile; this ſeventh Reſtitution of the Trigons (which began <hi>Anno</hi> 1603) from the creation of the world into their former eſtate, obtaineth a certain hidden conſideration of Sabbatiſme of Reſt, and denounceth ſomething peculiar above others, and of great moment, &amp;c.</p>
+            <p>Secondly, <hi>From this year current</hi> 1603. <hi>to</hi> 1694. <hi>ſhall be a Protaſis or Preparation to the thouſand Apocalyptick years, which being over past
+<pb n="4" facs="tcp:115560:2"/>the warre of Gog and Magog ſhad begin, and this ſhall bee concluded by that glorious comming of the Lord to Judgement; which when it ſhall be, he only knoweth. We know this only by the Scriptures, that a thouſand years, and the Warre of Gog and Magog, (as it is called) ſhall precede or goe before the laſt Iudgement.</hi>
+            </p>
+            <p>Thirdly, <hi>In Anno</hi> 1642. <hi>(to wit in Feb.</hi> 1642. <hi>and</hi> 1643. <hi>ſhall hap<g ref="char:EOLhyphen"/>pen the Conjunction of Saturn and Iupiter, in Aries the Ram (a ſigne of ſiery Triplicity) which portendeth the Revolution of ſome new Go<g ref="char:EOLhyphen"/>vernment or Empire.</hi>
+            </p>
+            <p>Theſe are the words of <hi>Alſted,</hi> or peradventure ſome other skil<g ref="char:EOLhyphen"/>full in Aſtrologie, out of whom (as his cuſtome was) he tranſcribed the ſame. For my part I will not raſhly interpoſe my ſmall Iudgement of the decrees of this combination, much leſſe foretell what ſorrow thereby may be ſignified unto us even now inſtant from above. I am no <hi>Caldean,</hi> neither know I the Celeſtiall Signes: Thoſe that ſuppoſe God openly ſignifies his pleaſure unto men by Letters written in Heaven, or that the Changes of Common-wealths and Religions are deſcribed in the moſt excellent Regiment of the celeſtiall motions, may reape this Harveſt, take the charge upon them, and with my conſent attribute unto themſelves the gift of Propheſie. Surely, I giving ſmall credit, (which I ingenuouſly confeſſe) to Aſtronomantick doctrine, have determined wholly to forbeare all explication of Significations: Nevertheleſſe I doe wiſh that all and every one whatſoever doe expect that ſaving and moſt glorious day of our Lord Chriſts appearance to be warned by this moſt ominous Aſpect, that they awaking from ſecurity (wherein the greateſt part of mankind under this laſt age of the decayed world lyes buried) would forthwith reforme their Chriſtian lives, and ſo pre<g ref="char:EOLhyphen"/>pare themſelves as if they were even now to entertaine the Lord Chriſt. And ſo much concerning theſe things.</p>
+            <p>And now I will ſomewhat more briefly touch the ſaid meeting or conjunction threatning moſt cruell and horrid warres, moſt ve<g ref="char:EOLhyphen"/>hement plagues, and other poyſoning diſeaſes in the yeare en<g ref="char:EOLhyphen"/>fuing.</p>
+            <q>
+               <l>Ecquid portendat terris Deus ille Deorum.</l>
+               <l>Norit, &amp; oftendent tempore fata ſuo.</l>
+               <l>
+                  <hi>What it portends to mankinde, God doth know,</hi>
+               </l>
+               <l>
+                  <hi>And in their time the firme decrees will ſhow.</hi>
+               </l>
+            </q>
+         </div>
+         <div type="prophecy">
+            <pb n="5" facs="tcp:115560:2"/>
+            <head>An Addition of the fiery Conjunction of <hi>Saturn</hi> and <hi>Iupiter</hi> in the yeare 1642. 1643. which denounceth many calamities to the World, or certaine Regions thereof.</head>
+            <p>
+               <hi>PTolomy Cardan, &amp;c.</hi> And all the Aſtrologers of the meaner ſort doe maintain, that the moſt ponderous conjunction of <hi>Saturn</hi> and <hi>Iupi<g ref="char:EOLhyphen"/>ter</hi> portendeth terrible wars, decayes of Kingdoms, tranſlations of Go<g ref="char:EOLhyphen"/>vernments, mortal plagues, and the moſt prodigious of prodigious things of that kinde: <hi>(c)</hi> On the other ſide, almoſt all our Divines as alſo many Aſtronomers of the beſt rank, do exceedingly deride thoſe things, only as melancholy dreames, and their great volumnes, do judge meer hodge<g ref="char:EOLhyphen"/>podges of moſt frivolous toyes (as the judgements of <hi>Haly,</hi> the conjuncti<g ref="char:EOLhyphen"/>ons of <hi>Albuma,</hi> and the Aphoriſmes of <hi>Cardanus,</hi> moſt worthy to feel the fire, and be charmed with the ſmoak. I am not he that will interpoſe my ſelle an Areopagite or a Palaemon, between ſo many and ſo great men moſt courageouſly contending, neither is it my office to compound ſo great controverſies agitated with ſuch fervor on either fide, ſith my na<g ref="char:EOLhyphen"/>ture hath alwayes hitherto abhorred to foretell events from the Starres; I confeſſe that the ſuperceleſtiall Bodies according to their Aſpects, and divers Angles beholding, doe prevaile over theſe ſubceleſtiall bodies, I confeſſe alſo that the meeting of the ſuperiour Planets (which the An<g ref="char:EOLhyphen"/>nalls of all Ages doe reſtifie) are accompanied for the moſt part with an Iliad of evils, and conſequently have much efficacy and portent: but that whatſoever it is, with <hi>Ticho Brahe</hi> in the like matter, I ſuppoſe is placed out of mans knowledge and determination; wherefore ſith my minde doth waver in the ballance, inclining both wayes: I am reſolved to ſuperſede or omit (if any thing ſhould be attributed to conjunctions) the moſt dire prediction whatſoever it be of the effects of this preſaging conjunction: I am not, as a little before I ſignified, of their Tribe that doe boldly pronounce things to come of the Starres, or of thoſe that feigning divine inſpiration, would be accounted Prophets by the credu<g ref="char:EOLhyphen"/>lous &amp; ſuperſtitious common people, though by men that have more wit and learning, they be eſteemed Impoſtors: Briefly, here is no need in<g ref="char:EOLhyphen"/>deed of my Coniectures, <hi>(d)</hi> the Belgick Compilers of Prognoſticati<g ref="char:EOLhyphen"/>ons, I well know in their divinations from yeare to yeare by occaſion hereof, doe interweave certaine Prophecies, or rather fooleries, where<g ref="char:EOLhyphen"/>by
+<pb n="7" facs="tcp:115560:3"/>they immodeſtly caſt no light blemiſh, aſwell on the Art as on them<g ref="char:EOLhyphen"/>ſelves. The French Almanack makers alſo (a Gods name) as ſo many Interpreters of Heaven, and the Starres Chamber-fellowes, doe ſet be<g ref="char:EOLhyphen"/>fore your eyes, and as it were with the finger ſhew, in their yearly ſhoo<g ref="char:EOLhyphen"/>tings forth, all the evills and more deſcribed in the fatall Tables of Hea<g ref="char:EOLhyphen"/>ven. In the interim, I much marvell that both of them doe finde thoſe on whom they may put them; ſeeing (to ſpeak as the caſe is) it skilleth no more what thoſe raw unlearned fellows ſhall iudge of this unluckie Aſpect, or other placing of the Starres, then if the blinde or bleer-eyed ſhould iudge of colours, which they cannot readily diſcerne. For ſuch Prognoſticators uſe to heap together in one medley without election or exquiſite iudgement, many and vaine things out of many Aſtrono<g ref="char:EOLhyphen"/>mers futilitie or fooliſh babbling. And ſo it comes to paſſe that ſcarce in many pages, can be found one line that may altogether agree with truth and experience: <hi>(e)</hi> Moreover, is there any credit to bee given unto Sooth-ſayers prophecying publick calamities, change of Kingdomes, deaths of great men, and deſtructions of Cities, where for the moſt part they ſhamefully erre in fore-telling Meteors, as raine, and other miſſile changes of the Aire, &amp;c. which the Prognoſtications in great number every yeare publiſhed, may ſufficiently prove, fore-telling the diſpoſitions of every day, often contrary and moſt often falſe.</p>
+            <p>Whatſoever it be, if any contemner of Divine tokens through the in<g ref="char:EOLhyphen"/>ſolency of his wit, doe babble that the meeting of <hi>Saturn</hi> and <hi>Iupiter,</hi> happens according to the uſuall courſe of nature, and therefore ſignifies nothing; that Prophet of <hi>Germany,</hi> thrice famous <hi>Luther,</hi> (not I, a man of no name) ſhall anſwer him, ſaying, <hi>Becauſe it ſeldome happens, though it, hath naturall cauſes, it portendeth ſomewhat.</hi> The which very ſame alſo, one of the Nobles of <hi>
+                  <g ref="char:V">Ʋ</g>rania,</hi> affirmeth in theſe words, <hi>What is annuall and for the continuall periods leſſe unaccuſtomed, that doth the leſſe trouble the rule of the worldly Occonomie, then that which ſeldome happens. The which amongſt other things</hi> (he goes on) <hi>the conjun<g ref="char:EOLhyphen"/>ctions of Planets which ſeldome happen, doe ſhew by manifeſt Indication of their effects.</hi> Moreover, the Sun that great Vice-Roy of Heaven, and moſt bright lamp of the World, and the other luminary of this univerſe the Moone doe preſignifie certaine ſupernaturall things; ſo often as they incurte defects, or be in Eclipſe, <hi>(f)</hi> from their appointed miniſtrics apparanly deficient, which they plainly admit in their naturall courſes, of which thing that man of <hi>(g)</hi> many tongues, and alſo great divine and
+<pb n="7" facs="tcp:115560:3"/>ſometimes the Miracle of Preachers, now in the greateſt delights with the Bleſſed was not ignorant. Likewiſe, that moſt ſpecious meteor and moſt beautifull <hi>Phanomenon</hi> or appearance, <hi>Eccl.</hi> 43.11.12. Iris, or vul<g ref="char:EOLhyphen"/>garly called the Celeſtiall Bow, <hi>(g)</hi> though it bee a naturall thing, <hi>viz.</hi> an emphaſis in the ayre from the Sun-beames reflecting on a dewie Cloud, yet it doth ſignificantly expreſſe by its azure Circle appearing in the Clouds, that Covenant which God moſt mercifull made with men after the Deluge; namely, that this world ſhould be no more de<g ref="char:EOLhyphen"/>ſtroyed by water. And alſo by another Cloudy Circle which is ſeene neare it, that which elſewhere S. <hi>Peter</hi> doth Prophecie without doubt ſeemeth to be ſignified, namely, that the world ſhall one day be con<g ref="char:EOLhyphen"/>ſumed with ſire, the ſecond Epiſt. 3.7.10.12. Let him that deſireth to read more of the malignity of this coniunction of <hi>Saturn</hi> and <hi>Iupiter,</hi> goe to the Appendix of a Book lately publiſhed in Engliſh touching the Comet in 1618.</p>
+            <p>Hitherto, we have delivered nothing but thunder, greatly to be fea<g ref="char:EOLhyphen"/>red even of us Engliſh, for our late divarication from the even poyſe of Piety, hence to the ſuperſtition of the Gentiles, thence to the Cyclopean contempt of ſacred things: Hitherto I ſay, our book hath againe and againe inculcated, <hi>(h)</hi> Woe, woe, as that Prophet (and the ſame moſt unhappy) of Ieruſalem, ſo that any one appalled or affrighted may ſay of this Book, as ſome one of the name of <hi>Allant</hi> while he lived, of the Church of Rome.</p>
+            <q>
+               <l>Bella ſonat, ſonat arma, minas ſonat, omnia Martis.</l>
+               <l>
+                  <hi>Warre, armes, and threats, it founds, all things of Mars.</hi>
+               </l>
+            </q>
+            <p>Wherefore leſt the minds of mortall men with ſo many portents and ſo great evils imminent, ſhould be ſore troubled; Take the Prophecie of <hi>Tycho Brahe</hi> of the moſt happy and more then golden age that will follow a while after, which may bee a comfort in this age of the vileſt mettle and dregges of ages, eſpecially to us in theſe moſt dangerous times.</p>
+         </div>
+         <div type="prophecy">
+            <pb n="8" facs="tcp:115560:4"/>
+            <head>The moſt comfortable Propheſie of <hi>Tycho Brabe,</hi> touching the moſt bleſſed age even now at hand, which to gratifie thoſe that are greatly perplexed, I offer for a Concluſion.</head>
+            <p>I <hi>Hold it worthy of obſervation, that even as the Trigonick Reſtitutions which were exhibited in odde number, as the firſt, third, and fifth, were healthful to the world ſo I may foretel this ſeventh (which began in</hi> 1603) <hi>eſpecially delighting in odde number to be of a certain great good and more happy eſtate: neither alſo are theſe different from the moſt ancient propheſies of moſt wiſe &amp; divinely illuminated men,</hi> (k) <hi>who prophecied that before the univerſall conflagration or burning of all things, a certaine peaceable and concordant age ſhould for a time be one earth, wherein the tumultuos con<g ref="char:EOLhyphen"/>fuſions of politike adminiſtrations or governments, &amp; variety of Religious ſhould be tranſmuted or changed, and adopted or fitted to a more conforme Analogie of Gods will. The which we may plainly gather out of the Prophets themſelves, who foretold that a certaine golden age ſhould ſometime be on the earth, wherein men ſhall make plough ſhares of their ſwords, and ſithes of their ſpeares; neither ſhall one people beare armes againſt another, nor learne to fight any more; they ſhall live under their Vines and figtrees and none ſhall fray them away. As</hi> Micheas <hi>the Prophet hath it,</hi> chap. 4. <hi>and</hi> Iſa. chap. 11. <hi>doth propheſie of the ſame in this manner: The Wolfe ſhall converſe with the Lambe, the Leopard lie downe by the Goat, and a little Childe ſhall lead a Calfe and a Lyon coupled together, and the Cow and Beare ſhall feed together, their young ones lying together, and the Lyon like the Oxe ſhall feed of ſtraw, and the ſucking Infant playing upon the nest the of Aſpe, and when hee is weaned, he ſhall put his hand into the Cockatrices Denne: There ſhall be no evill, or wickedneſſe done in my holy H<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll, becauſe the earth ſhall be full of ſo great knowledge of the Lord, even as the Sea is covered with waters: Then alſo thoſe things which,</hi> I ſay 60. <hi>are referred to the myſticall Ieruſalem, or the ſtate of Chriſtianity more perfect then hitherto, where amongſt other things it is ſaid, For braſſe I <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> in gold, for iron ſilver, for wood braſſe, for ſtones iron: and I
+<pb n="9" facs="tcp:115560:4"/>will turne thy oppreſſion into peace, and thy exactions intorightouſneſſe; Cruelty ſhall not then be heard in thy land, nor deſtruction or calamity within thy borders, thy walls thou ſhall call health, and thy Gates praiſes.</hi> And what goes before and follows, where at length he thus concluds. <hi>I the Lord will bring that to paſſe in its time, There are alſo found more places, aſwell in the Prophets as in the Apocalyps promiſing an unwonted and little hoped for felicity (of earthly things, ſurely, ſo great as hitherto hath been in no age of the world. That there<g ref="char:EOLhyphen"/>fore the truth of the prophecie may be fulfilled, which cannot deceive (for they are altogether uttered by the truth-telling ſpirit of God) it is certaine that this will bee before the univerſall deſtruction of things, What then, if in this new paſſage of the Trigons, all thoſe things have their event allotted.</hi>
+            </p>
+            <p>
+               <hi>(l)</hi> All theſe things full of vigor, <hi>Tycho Brahe</hi> never to be named without a new title of praiſe, a man alſo nobly learned in divine knowledge. There will bee haply ſome Novices and Tycho-carpers, to whom a man ſo great will ſeeme exceeding raſh, yea, halfe a Here<g ref="char:EOLhyphen"/>tick, and his prophetick words, an old Wives dotage, and with one foot at the leaſt to enter on the threſhold of herefie; They ſaying with S. <hi>Pauls</hi> Antagoniſts, Acts 17.19. <hi>May we not know what this now Doctrine whereof thou ſpeakeſt is?</hi> And with the wreſted words of Saint <hi>Ierom, Whoſoever thou art that maintaineſt new decrees, I pray thee why, after foure hundred yeares (a thouſand and ſix hundred) doeſt thou ondeavour to teach us what we knew not before? Why, doeſt thou publiſh what</hi> Peter <hi>and</hi> Paul <hi>would not utter? the Chriſtian world hath ſubſiſted to this day without that Doctrine of yours, wee being old, will hold that beliefe, wherein being children, we were born.</hi>
+            </p>
+            <p>To theſe I anſwer, that ſurely this Doctrine of the Millenary fe<g ref="char:EOLhyphen"/>licity is not new, yeſterday, or of a very late invention, but wor<g ref="char:EOLhyphen"/>thy of reverence for the very ancientneſſe thereof: foraſmuch as it flouriſhed a thouſand and foure or five hundred yeares ſi<g ref="char:EOLhyphen"/>thence, and almoſt in the very firſt beginnings of the riſing Church. And truly, <hi>(m)</hi> moſt holy and learned men, in the next Ages after the birth of Chriſt, have taught things not only conſonant or agreeable with thoſe of <hi>Brahe,</hi> but alſo ſome things ſomewhat hard, and more unpleaſing to the eares of common Divines, without any filth or ſtaine of Hereſie or of declining from uprightneſſe of beliefe, touching the
+<pb n="10" facs="tcp:115560:5"/>Sabbatiſme or time of reſt to come upon the earth: <hi>(n)</hi> Others have taught a double reſurrection, firſt, a particular reſurrection of ſome faithfull people, eſpecially Martyrs and Confeſſors; ſecondly, an uni<g ref="char:EOLhyphen"/>verſall reſurrection, which the Catholick Church do firmly beleeve as a principall Article of Chriſtianity, and have judged it to be between either of the golden Ages of 1000 yeeres; read gentle Reader, and perpend or diligently conſider, <hi>Apoc.</hi> 5.10. and 20.4.5.6. where theſe things (by my Interpretation) are written as in the beames of the Sunne.</p>
+            <p>Neither is there any cauſe that the ſaid Reſurrection of ſome whom God peculiarly ſegregated to receive ſuch reward, may make any one doubtfull, ſeeing ſuch particular Reſurrection happened when Chriſt, the lover of mankinde, ſuffered, or (which by the ſacred Hi<g ref="char:EOLhyphen"/>ſtory ſeemeth unto me more likely to betrue) when he roſe againe: At which time there aroſe together with him our firſt Parents the ho<g ref="char:EOLhyphen"/>ly Patriarchs and Matriarchs, <hi>(o)</hi> pious Kings, and divine Prophets, that is to ſay <hi>Adam, Eve, Noah, Abraham</hi> with <hi>Sarah, Iſaac, Iacob, Iob, Moſes, David,</hi> or at leaſt (as others are of opinion) <hi>Iohn</hi> the <hi>Bap<g ref="char:EOLhyphen"/>tiſt, Zachary, Elizabeth, Simeon,</hi> (o) <hi>Ioſeph</hi> the Husband of the bleſ<g ref="char:EOLhyphen"/>ſed Virgin, together with others that ſaw Chriſt in the fleſh: <hi>(p)</hi> For ſeeing theſe were known to Chriſts Diſciples, they could therefore the better teſtifie of his Reſurrection.</p>
+            <p>Moreover, others of the elders and chiefe Doctors of the Church have taught that Chriſt himſelfe from the firſt Reſurrection to the ſe<g ref="char:EOLhyphen"/>cond ſhall remaine on the earth, and raign there 1000 years with his Saints and Elect in very great peace, and with incredible felicitie of all delights abounding every where. That eloquent and fluent wri<g ref="char:EOLhyphen"/>ter worthy to be compared with <hi>Cicero</hi> alone, the moſt eloquent of <hi>Romulus</hi> his Nephews (according to the judgement of <hi>Heinſius</hi> in his Oration, <hi>Pro Biblioth</hi> 3. <hi>pag.</hi> 29) may ſpeak for all, <hi>The Sonne of the higheſt and greatest God ſhall come to judge the living and the dead, He ſhall converſe with men</hi> 1000 <hi>years, and ſhall rule them with moſt upright government, and then they ſhall bee living in their bodies and not die, but through the ſame</hi> 1000. <hi>years they ſhall beget an infinite multitude, and their Of-ſpring ſhall be holy and deare unto God.</hi> (p) <hi>And thoſe that ſhall be raiſed from beneath, ſhall bee as Judges to the being.</hi> And after a few things inſerted, hee addeth, <hi>The Moone
+<pb n="11" facs="tcp:115560:5"/>ſhall receive the luſtre of the Sunne, and ſhall bee no more diminiſhed, and the Sunne ſhall be ſeven times brighter then now it is: And the Earth ſhall open her fruitfulneſſe, and ſhall of her owne accord bring forth moſt plentifull fruits; the rocks of the mountaines ſhall ſweat ho<g ref="char:EOLhyphen"/>uey, wines ſhall run downe in rivers, and floods with milke ſhall abound.</hi> And preſently after, <hi>There ſhall be in all this time no bloody beasts, no birds of prey, but all things ſhall be peaceable and pleaſant. Lions and Calves ſhall ſtand together at the ſtall; the Wolfe ſhall not prey on the Lambe; the Dogge ſhall not hunt; Hawks and Eagles ſhall not hurt; Infants ſhall play with Serpents. To conclude, then ſhall come to paſſe thoſe things which the Poets declared to be done in the goldentimes,</hi> Sa<g ref="char:EOLhyphen"/>turne <hi>reigning.</hi> Afterwards he added to the former things, thirteene Verſes of <hi>Virgil.</hi> out of the fourth Eclogue, but their order changed after this manner, 38.39.40.41.28.29.30.42.43.44.45.21.22. <hi>Therefore men ſhall live a moſt peaceable and plentifull life, and ſhall likewiſe reigne with God. And the Kings of the Gentiles ſhall come from the borders of the Earth with gifts and preſents to adore and ho<g ref="char:EOLhyphen"/>nour the great King, &amp;c.</hi> This is the doctrine of the holy Prophets, which we Chriſtians doe follow; this is Chriſtian wiſedome. Such things <hi>Lactantius lib.</hi> 7. <hi>Div. Inſtit.</hi> doth recite, wherein ſome ſay<g ref="char:EOLhyphen"/>ings at the firſt ſight ſpecious, but more deeply looked into, except as the ſayings of man (to uſe the words of <hi>Paul</hi>) I cannot approve. Nevertheleſſe with a gratefull and benigne affection I judge the Au<g ref="char:EOLhyphen"/>thour to be excuſed; for the great number of illuſtrious Writers both of the Eaſt and Weſt Churches, which before him ſeemed as it were to give their authority unto this opinion.</p>
+            <p>
+               <hi>(q)</hi> But why ſhould I cite the Name or Words of <hi>Lactantius</hi> for confirmation of this opinion; <hi>Papias</hi> the Biſhop S. <hi>Iohns</hi> Diſciple, <hi>Irenaus,</hi> and <hi>Iuſtine Martyr,</hi> moſt neare the Apoſtles times; and almoſt even with thoſe, <hi>Tortullian,</hi> and <hi>Hilary,</hi> and though more ſparingly, Saint <hi>Auguſtin,</hi> and <hi>Ierom</hi> his Contemporary (good God how great men) have with eloquent and openwords almoſt confir<g ref="char:EOLhyphen"/>med the ſame opinion.</p>
+            <p>
+               <hi>(r)</hi> Yea further this opinion of the <hi>Thouſands,</hi> not only increaſeth, but waxeth ſtrong with the moderne (to paſſe over the middle) Di<g ref="char:EOLhyphen"/>vines of greateſt name, namely <hi>Piſcator</hi> a notable Commentator of the holy Bible, <hi>Coelius ſecundus</hi> a man of great knowledge, <hi>Alph.
+<pb n="12" facs="tcp:115560:6"/>Conradus, Matthias Cotterius,</hi> have fully yeelded to the ſame, though in certaine ſmall things here and there they vary amongſt themſelves. And above all Advocates <hi>Card. Gallus,</hi> in his <hi>Clavis Prophetica,</hi> Mr. <hi>Mede</hi> our Countrey-man (paſt all exception) in his <hi>Clavis Apoc.</hi> Mr. <hi>Archer</hi> of the perſonall Reigne of Chriſt publiſhed in Engliſh <hi>Anno</hi> 1641, and laſtly that <hi>Henry Alſted</hi> moſt conver<g ref="char:EOLhyphen"/>ſant in the <hi>Apocalyps,</hi> moſt full of moſt deepe ſenſes, and high myſte<g ref="char:EOLhyphen"/>ries in his truly golden work inſcribed <hi>Diatribe</hi> of the thouſand A<g ref="char:EOLhyphen"/>pocalyptick yeares (which is a little Booke, but of great ſedulity and diligence) doe manfully and ſolidly defend the ſame opinion. Foraſmuch as he taking away all ſcruple of doubting in this matter, as one who liketh and hath a care of theſe divine ſecrets worthy to be knowne, tranſlated the ſame moſt worthy to be wiſhed, out of the Latine into the Engliſh tongue.</p>
+            <p>Neither ſhould it ſeeme wonderfull, that the moſt able part of the Miniſters of the holy word, otherwiſe very ſtudious of the truth, in this moſt learned age doth not ſo ſuddenly aſſent, ſeeing the con<g ref="char:EOLhyphen"/>trary opinion from the time of Saint <hi>Ierom</hi> even to ours, for the moſt part hath prevailed. For as in other Arts of inferiour degrees, ſo alſo in Divinity, many great men ſuffer themſelves very hardly to be moved from the opinions which at firſt they learned. Notably and to the purpoſe ſaith <hi>Tycho Brahe</hi> himſelfe <hi>(s) Men otherwiſe not un<g ref="char:EOLhyphen"/>learned, doeſo religiouſly obſerve thoſe things, which they have received by inveterate authority of their Anceſtors, that although plainly and by themſelves without a Monitor, they obſerve thoſe things to bee <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>; they account it a haynous offence and impute it to lightneſſe to depart from their opinion long approved, and by diuturnall uſe con<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#UOM" extent="6 letters">
+                     <desc>••••••</desc>
+                  </gap>: And therefore it is now no more marvell that men do ſo contend in matter of Religion for their Anceſtors opinions, howſoever the holy Sereptures may openly enough ſometimes evince the contrary. (t)</hi> And agreeably to this elſewhere, <hi>Such is the nature of mankinde, that they may not preſently deſiſt from their long received and approved opinions, though erroneous; but a commutation or change by little and little, if not otherwiſe, may be made from darkneſſe to light: even as wee ſee in the appearing morne thoſe things which the light of the day not ſudden<g ref="char:EOLhyphen"/>ly, but by degrees doth miniſter unto us, untill the Sunne it ſelfe riſen drives away all darkneſſe. Some ſuch thing alſo in matter of Religion
+<pb n="13" facs="tcp:115560:6"/>appeares to be done, and it is to be hoped even as the morning doth ne<g ref="char:EOLhyphen"/>ver ſuffer a Relapſe into nocturnall darkneſſe, howſoever ſometimes her progreſſe is obſcured by thicker Clouds: So alſo that the truth it ſelfe, whether Theologicall or Philoſophicall, ſhall not ſuffer a Retroceſſe or going backwards; but ſucceſſively by little and little put forth it ſelfe out of the darkneſſe wherewith it is over-clouded.</hi> Thus farre goes <hi>Tycho Brahe,</hi> whom we ſo often before have very honourably men<g ref="char:EOLhyphen"/>tioned. Laſtly, in what yeare this new world and halfe-heavenly condition of mortall men ſhall happen, and the Church militant, if I may ſo ſpeak, ſhall beginne to triumph, it is a matter very diſpu<g ref="char:EOLhyphen"/>table. Some doe aſſigne one yeare, ſome another; yet they all agree in one full voice, that it is neare and even at our doores. <hi>Alſted</hi> the Standard-bearer of millenaries in our age appointeth the yeare of Grace, 1694. to be the firſt of this moſt wiſhed age. Others ſay it is moſt uncertaine, whoſe judgement I hold to bee the moſt cer<g ref="char:EOLhyphen"/>taine. I wiſh and wiſh againe that this millenary Kingdome, if God ſhall bee ſo pleaſed, may happen in our dayes. I will cloſe up this pleaſing contemplation (which hath refreſhed again, as I hope, Thoſe whom the terrifying premiſes diſmaid) with the words of Saint <hi>Iohn</hi> the Divine, or rather of the holy Ghoſt guiding his pen;</p>
+            <q>
+               <bibl>
+                  <hi>Apoc. 20.6.</hi>
+               </bibl>
+               <l>Bleſſed is he that hath part in the firſt Reſurrection.</l>
+               <l>
+                  <hi>Grant, O Lord, that we may be partakers thereof.</hi>
+               </l>
+            </q>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="notes">
+            <pb n="14" facs="tcp:115560:7"/>
+            <head>The Annotations whereunto you are re<g ref="char:EOLhyphen"/>ſpectively directed by the Alphabeticall Let<g ref="char:EOLhyphen"/>ter in this precedent Work.</head>
+            <p>
+               <hi>(a)</hi> The great Revolutions, or (which is even as) the greateſt Conjunctions of Saturne and Iu<g ref="char:EOLhyphen"/>piter, have happened almoſt in the yeares ſhewne in this Table.</p>
+            <p>
+               <table>
+                  <row>
+                     <cell role="label">Revol.</cell>
+                     <cell role="label">From the be<g ref="char:EOLhyphen"/>ginning of the world.</cell>
+                     <cell role="label">Before Chriſt</cell>
+                     <cell role="label">Notable Perſons.</cell>
+                  </row>
+                  <row>
+                     <cell>0</cell>
+                     <cell>000</cell>
+                     <cell>4000</cell>
+                     <cell>Adam</cell>
+                  </row>
+                  <row>
+                     <cell>1</cell>
+                     <cell>800</cell>
+                     <cell>3200</cell>
+                     <cell>Enoch</cell>
+                  </row>
+                  <row>
+                     <cell>2</cell>
+                     <cell>1600</cell>
+                     <cell>2400</cell>
+                     <cell>Noah</cell>
+                  </row>
+                  <row>
+                     <cell>3</cell>
+                     <cell>2400</cell>
+                     <cell>1600</cell>
+                     <cell>Moſes</cell>
+                  </row>
+                  <row>
+                     <cell>4</cell>
+                     <cell>3200</cell>
+                     <cell>800</cell>
+                     <cell>Elias</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>After</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>5</cell>
+                     <cell>4000</cell>
+                     <cell>Chriſt</cell>
+                     <cell>Ieſus Chr.</cell>
+                  </row>
+                  <row>
+                     <cell>6</cell>
+                     <cell>4800</cell>
+                     <cell>800</cell>
+                     <cell>Char. Gr.</cell>
+                  </row>
+                  <row>
+                     <cell>7</cell>
+                     <cell>5600</cell>
+                     <cell>1600</cell>
+                     <cell>K. Iames.</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <hi>(b)</hi> God ſpeaks with men not only by the mouthes of his holy Prophets, but ſometimes by the Elements compoſed into divers Formes and Images for their Terrour.</p>
+            <p>
+               <hi>(c)</hi> Our chiefe Antiquary hath very well noted, that the Con<g ref="char:EOLhyphen"/>junctions and Oppoſitions of Sa<g ref="char:EOLhyphen"/>turne and Iupiter have been mor<g ref="char:EOLhyphen"/>tall to us of <hi>England.</hi>
+            </p>
+            <p>For mine owne part, I have obſerved the Engliſh Sweat, or ſweating ſickneſſe, hath gone thrice over all this Kingdome. Firſt, in <hi>Anno</hi> 1485. a little after the great Conjunction in Scorp. Againe, but more mildely, yet accompanied with a plague, in <hi>Anno</hi> 1518. after the oppoſition of Saturne and Iupiter in Scorpio and Taurus. Laſtly, in <hi>Anno</hi> 1551. when another Conjunction of Saturne and Iupiter did execute her powers.</p>
+            <p>
+               <hi>(d)</hi> The falſe Aſtrologers in their moſt frivolous Prognoſtications uſe to preſcribe indifferently to All borne even under a different <hi>The<g ref="char:EOLhyphen"/>ma</hi> of Heaven, on what day it is good or bad to cut a veine, purge the body with a medicine, draw forth blood with Cupping Glaſſes, or leeches, travell into a ſtrange Countrey, ſhave the head or the beard, or paire their nailes; Alſo warres, the death of Princes, dear<g ref="char:EOLhyphen"/>neſſe of Victuals, and I know not what, with a ſhameleſſe brow they bluſh not to foretell.</p>
+            <p>
+               <hi>(e)</hi> One to try the truth of this Art, forthwith in the beginning of the yeare took his Kalender, and where the Authour had ſet downe
+<pb n="15" facs="tcp:115560:7"/>raine he writ faire weather, where calme, winde; where cleare, clou<g ref="char:EOLhyphen"/>dy: And at the end of the yeare, having ſummed up the Predictions on either part, he found himſelfe a better and more certaine Aſtrolo<g ref="char:EOLhyphen"/>ger by many parts then the Almanack maker. <hi>I. H.</hi>
+            </p>
+            <p>
+               <hi>(f)</hi> Bee adviſed by thoſe delightfull and alſo grave Sermons which are ſtudiouſly read almoſt of all men, made by the Biſhop of <hi>Wincheſter,</hi> fol. 719.</p>
+            <p>
+               <hi>(g)</hi> If there be any omen in Ecclipſes, ſurely very much evill will be brought by that horrid Ecclipſe of the Sunne (and the greateſt of all that we Brittaines have ſeene in many ages) <hi>Aug.</hi> 2. 1654. For the whole Luminary about ten of the Clock in the forenoone, the Moone being darkened, ſhall lie hid halfe a quarter of an houre, whereby deep darkneſſe ſhall poſſeſſe <hi>London,</hi> and the neighbouring places, chiefly <hi>Kingſtone,</hi> unleſſe a groſſe circumſolar ayre doe bring it reliefe.</p>
+            <p>
+               <hi>(h) Ieſus</hi> the Brother of <hi>Ananias,</hi> a husbandman, ſeven yeares and a halfe continually cried, Woe to <hi>Ieruſalem;</hi> At length he added, woe alſo to me, and at the ſame words, being ſtricken from a ſling, he gave up the Ghoſt, <hi>Geſep. lib.</hi> 5. of the Deſtruction of Ieruſalem, Chap. 44.</p>
+            <p>
+               <hi>(i)</hi> The firſt Trigonick Reſtitution was finiſhed in Enoch and the flouriſhing eſtate of the Church. The third in Moſes, and the de<g ref="char:EOLhyphen"/>liverance of the people out of the Bondage of Egypt. The fifth in Chriſt and the reparation of humane ſalvation.</p>
+            <p>
+               <hi>(k)</hi> The Ancient Patrons of this opinion, touching the future fe<g ref="char:EOLhyphen"/>licity of the Church in this life, confirmed it out of <hi>Mar.</hi> 10.30. (ſee <hi>Maldenat</hi> in this place) out of Matth. 5.5. (D. <hi>Hart Conc.</hi> fol. 291) Chiefly out of the Revelation 5.10. and 20. verſ. 4.5.6. whereunto adde 66 places which <hi>Alsted</hi> out of <hi>V.</hi> and <hi>N. T.</hi> alleadgeth in his <hi>Diatr. de mille annis</hi> Apocal.</p>
+            <p>
+               <hi>(l)</hi> Note that <hi>Cerinthus</hi> and his followers, called Millenaries, were condemned by that name of open hereſie, becauſe they moſt pleaſantly dreamed, or ſuppoſed, that this Earth ſhould be not ſo much a paradiſe of ſpirituall delights as a ſtewes of moſt filthy volup<g ref="char:EOLhyphen"/>tuouſneſſe, <hi>Euſeb. lib.</hi> 3. <hi>chap.</hi> 25. <hi>Aug.</hi> of Hereſie chap. 8. And the ſame opinion is held not only by the circumciſed Iewes, but alſo by our re-baptized Anabaptiſts.</p>
+            <p>
+               <pb n="16" facs="tcp:115560:8"/>
+               <hi>(m)</hi> Many Eccleſiaſticall men and Martyrs have ſaid theſe things, <hi>Ierom lib.</hi> 4. upon <hi>Ieremy.</hi>
+            </p>
+            <p>
+               <hi>(n)</hi> The firſt Reſurrection ſeemeth to be due unto the Martys and Confeſſors as their prerogatives, becauſe they glorified Chirſt before others here in their bodies, nothing terrified with the cruell threats and torments of men; for it is juſt (faith <hi>Tertul.</hi>) with God to ex<g ref="char:EOLhyphen"/>alt his ſervants when they are afflicted in his name, <hi>Lib.</hi> 3. <hi>Contra Marc.</hi>
+            </p>
+            <p>Many have many things of theſe firſt fruits of the Reſurrection, <hi>Vir. Pineda. Salian, Annals, tom.</hi> 6. fol. 422. 433. <hi>Bi. Bilſon, fol.</hi> 217. and <hi>Wil. Comm.</hi> upon <hi>Gen.</hi> 256. <hi>Lorin.</hi> upon <hi>Acts</hi> 7. <hi>pag.</hi> 29. and abun<g ref="char:EOLhyphen"/>dantly D. <hi>Kellet</hi> in his <hi>Miſcellany</hi> part. 2. and here and there in page 12. and 240.</p>
+            <p>
+               <hi>(o) Gerſon</hi> is of opinion that <hi>Ioſeph</hi> then roſe and appeared to his moſt honoured ſpouſe, and comforted her, <hi>Barrards Evang. Hist. tom<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> pag.</hi> 311.</p>
+            <p>
+               <hi>(p)</hi> The Poets dreame of the golden age aroſe from hence, becauſe the Prophets doe ſo deliver and declate many things, as even finiſhed: For Viſious by Gods Spirit were obiected to their eyes, and they ſaw thoſe things in their ſight as to be done and ended: when ſame had by little and little divulged their propheſies, they thought that all thoſe things were compleat in the old times, <hi>Lact.</hi>
+            </p>
+            <p>
+               <hi>(q)</hi> S. <hi>Ierom</hi> in his Book <hi>De virisilluſtrib.</hi> doth recite a numerous Catalogue of the ancient Fathers that were of this opinion.</p>
+            <p>
+               <hi>(r)</hi> D. <hi>Hakwill</hi> in his Apology (edition the ſecond) pag. 476. com<g ref="char:EOLhyphen"/>mendeth many of his time, vehemently giving their ſuffrages to the Army of the foreſaid reverend Antiquity contending for the Mil<g ref="char:EOLhyphen"/>lenary Kingdom.</p>
+            <p>
+               <hi>(ſ) Tycho Brahe Aſtron. progymn. tom. pag.</hi> 541. <hi>&amp;</hi> 512.</p>
+            <p>
+               <hi>(t)</hi> Though the greater part of our freſh Divines, borne away with the violence of the common torrent, think otherwiſe; nevertheleſſe, it is nothing prejudic all to this moſt divulged and moſt received opinion in the prime ages of the Church.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
